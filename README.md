@@ -1,4 +1,4 @@
-# launch-dill-node
+# Dill-node
 
 ## Table of Contents
 - [Introduction](#introduction)
